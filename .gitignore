@@ -1,2 +1,4 @@
+# File types
+.DS_Store
 # Python environment
 env/
